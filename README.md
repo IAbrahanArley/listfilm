@@ -31,9 +31,11 @@
    ./mvnw spring-boot:run
    ```
 ## 🎯 Objetivo do Projeto
+
 #### Este projeto foi desenvolvido com fins educacionais, visando o aprimoramento das seguintes habilidades:
 - Boas práticas em desenvolvimento com Java e Spring
 - Organização de código limpo e modular
 - Integração com banco de dados relacional
 
+![listfilm](https://github.com/user-attachments/assets/23c343f8-70c9-4880-9fdf-4403bf51b2c6)
 
